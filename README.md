@@ -75,7 +75,7 @@ I'm a passionate **Frontend Web Developer** focused on building modern, responsi
 ---
 
 ## 📊 GitHub Stats
-
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?morsalin7274-bit=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=morsalin7274-bit&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morsalin7274-bit&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
